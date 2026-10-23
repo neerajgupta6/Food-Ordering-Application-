@@ -161,4 +161,4 @@ Open `http://localhost:5173`.
 ## 👤 Author
 
 ** Neeraj Gupta **
-GitHub: [@your-username](https://github.com/neerajgupta6) 
+GitHub: [neerajgupta6](https://github.com/neerajgupta6) 
